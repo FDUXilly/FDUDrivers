@@ -32,7 +32,7 @@ You agree not to reproduce, duplicate, copy, sell, trade, resell or exploit for 
 # How to get the Dataset
 This database is publicly available. It is free for professors and researcher scientists affiliated to a University. Permission to use but not reproduce or distribute our database is granted to all researchers given that the following steps are properly followed: Send an e-mail to Austin (18110860061@fudan.edu.cn) or Xinlei Li (18110860019@fudan.edu.cn) before downloading the database. Your Email MUST be set from a valid University account and MUST include the following text:
 
-1. Subject: Application to download the FDU/SHUTCM Dataset          
+1. Subject: Application to download the FDUDrivers Dataset          
 2. Name: <your first and last name>
 3. Affiliation: <University where you work>
 4. Department: <your department>
